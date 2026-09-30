@@ -36,7 +36,7 @@ O jogador controla um bloco azul na parte de baixo da tela. Blocos vermelhos cae
 ## Como executar
 
 1. Clone o repositório:
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+   git clone https://github.com/amanda-mds/pygame.git
 
 2. Instale o Pygame:
    pip install pygame
